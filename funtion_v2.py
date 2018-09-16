@@ -1,4 +1,4 @@
-# CNN
+### Funtions used in the notebook main_v2
 
 import math
 import numpy as np
